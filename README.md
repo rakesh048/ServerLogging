@@ -28,7 +28,7 @@ Follow below steps run the project (ubuntu OS) :
     ^admin/
     ^api/
     api's are there.
-15. Now change the with http://127.0.0.1:8000/api/
+15. Now change the url with http://127.0.0.1:8000/api/
 16. Now there are API's you will see : 
 
 {
