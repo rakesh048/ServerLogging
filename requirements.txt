@@ -1,0 +1,14 @@
+
+Django==1.11
+djangorestframework==3.7.7
+get==0.0.39
+idna==2.6
+pkg-resources==0.0.0
+post==0.0.26
+psutil==5.4.3
+public==0.0.65
+pytz==2018.3
+query-string==0.0.28
+request==0.0.26
+requests==2.18.4
+urllib3==1.22
