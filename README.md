@@ -16,6 +16,7 @@ Follow below steps run the project (ubuntu OS) :
 4. Type ls to see env is created.
 5. Now activate env with command -> source env/bin/activate
 6. You are now in virtualenv (env).
+7. git clone the code from link 
 7. Command to enter into ServerLogging -> cd ServerLogging
 8. Now ls command to see files inside the directory, Here you see requirements.txt.
 9. Install the requirement in env with -> pip istall -r requirements.txt
