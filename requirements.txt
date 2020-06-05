@@ -1,5 +1,5 @@
 
-Django==1.11
+Django==1.11.29
 djangorestframework==3.7.7
 get==0.0.39
 idna==2.6
