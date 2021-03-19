@@ -1,6 +1,6 @@
 
 Django==1.11
-djangorestframework==3.7.7
+djangorestframework==3.11.2
 get==0.0.39
 idna==2.6
 pkg-resources==0.0.0
